@@ -78,7 +78,7 @@ Contributions are highly encouraged and greatly appreciated! If you wish to cont
 
 ## 📄 License
 
-This project is distributed under the MIT License. For more details, please refer to the `LICENSE` file in the repository.
+This project was developed for educational purposes and is not currently distributed under a specific open-source license. All rights are reserved to the original author.
 
 ## 📧 Contact
 
