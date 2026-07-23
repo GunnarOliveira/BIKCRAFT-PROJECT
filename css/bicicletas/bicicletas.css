@@ -12,6 +12,9 @@
 .bicicletas-imagem {
   display: grid;
 }
+.bicicleta-imagens {
+  cursor: pointer;
+}
 .bicicletas-imagem img,
 .bicicletas-imagem span {
   grid-area: 1/1;
