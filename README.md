@@ -76,10 +76,6 @@ Contributions are highly encouraged and greatly appreciated! If you wish to cont
 
 1. Open a Pull Request.
 
-## 📄 License
-
-This project was developed for educational purposes and is not currently distributed under a specific open-source license. All rights are reserved to the original author.
-
 ## 📧 Contact
 
 Gunnar Oliveira - [GitHub Profile](https://github.com/GunnarOliveira)
